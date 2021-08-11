@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(63, 59, 59);
+}
+h1{
+    color: aquamarine;
+
+    text-align: center;
+}
+p{
+    color: rgb(10, 136, 67);
+
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+video{
+    display: block;
+    margin : auto;
+}
